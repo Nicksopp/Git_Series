@@ -9,3 +9,6 @@ print("Hello Nikesh")
 
 print("we will do merging and branching")
 
+# updating through branch ok !
+
+print("This is update through branch")
